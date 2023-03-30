@@ -3,8 +3,8 @@ import os
 import asyncio
 
 # Define the bot token and chat ID here
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = -1001234567890
+BOT_TOKEN = "6164488568:AAEQQW-To6N3x2K-RyZscF4fncdt-IrI1_o"
+CHAT_ID = -1001774250110
 
 
 async def get_admins():
